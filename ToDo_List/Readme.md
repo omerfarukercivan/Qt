@@ -1,1 +1,1 @@
-Qt framework'ü ile yapılmı todo list projesi.
+Qt framework'ü ile geliştirdiğim todo list projesi.

@@ -1,1 +1,1 @@
-Qt framework'ü ile yaptığım random sayı üretip grafiğini çizen proje.
+Qt framework'ü ile geliştirdiğim random sayı üretip grafiğini çizen proje.
